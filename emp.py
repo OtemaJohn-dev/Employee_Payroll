@@ -1,1 +1,1 @@
-print("Guys have been paid")
+print("Guys who dodge will get less salary")
