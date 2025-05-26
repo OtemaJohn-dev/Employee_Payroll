@@ -1,0 +1,1 @@
+print("Guys have been paid")
